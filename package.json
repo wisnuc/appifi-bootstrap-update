@@ -1,0 +1,15 @@
+{
+  "name": "appifi-bootstrap-update",
+  "version": "0.1.0",
+  "description": "appifi-bootstrap auto update tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jshashes": "^1.0.5",
+    "webpack": "^1.13.1"
+  }
+}
