@@ -15,7 +15,7 @@ var basefile = '/wisnuc/bootstrap/appifi-bootstrap.js'
 var tmpfile = basefile + '.tmp'
 var sha1file = basefile + '.sha1'
 
-var remotePath = '/wisnuc/appifi-bootstrap/release/bootstrap.js.sha1' 
+var remotePath = '/wisnuc/appifi-bootstrap/release/appifi-bootstrap.js.sha1' 
 
 function headerHash(text) {
 
