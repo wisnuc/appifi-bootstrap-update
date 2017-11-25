@@ -3,7 +3,7 @@
 // step 3: read back, verify
 // step 4: compare with /wisnuc/bootstrap.js.sha1 if not same, overwrite it
 
-// https://raw.githubusercontent.com/wisnuc/appifi-bootstrap/release/bootstrap.js.sha1
+// https://raw.githubusercontent.com/wisnuc/appifi-bootstrap/release/appifi-bootstrap.js.sha1
 
 var fs = require('fs')
 var child = require('child_process')
